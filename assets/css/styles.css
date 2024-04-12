@@ -29,25 +29,25 @@ h1 {
   border-bottom-right-radius: 10px;
   text-decoration: none;
 }
-#section-a {
+#sub-head-a {
   text-align: center;
   color: white;
   background-color: #86592d;
 }
-#section-b {
+#sub-head-b {
   color: #86592d;
   background-color: rgb(249, 243, 237);
   text-align: center;
 }
-#section-c {
+.sub-head-c {
   color: white;
   background-color: #86592d;
 }
-#section-d {
+.sub-head-d {
   color: #86592d;
   background-color: rgb(249, 243, 237);
 }
-#section-e {
+.sub-head-e {
   color: white;
   background-color: #86592d;
 }
